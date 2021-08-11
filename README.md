@@ -1,2 +1,2 @@
 # moocfi-haskell-course
-Solutions of exercises of Haskell course by mooc.fi
+So far, I have only done part 1 of the Haskell course. The full course contains to parts.
